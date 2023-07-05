@@ -1,2 +1,3 @@
-# PCoursehenry
-este es un repositorio del mod2 del prepcourse de henry
+Samuel Garnica 
+
+este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local 
